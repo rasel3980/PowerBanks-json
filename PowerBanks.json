@@ -1,94 +1,84 @@
 {
-  "power_banks": [
+  "products": [
     {
-      "id": 1,
-      "brand": "Anker",
-      "model": "PowerCore 20100",
-      "capacity_mAh": 20100,
+      "product_id": 1,
+      "product_title": "Anker PowerCore 20100 Portable Charger",
+      "product_image": "https://i.ibb.co/Mp1mb22/Anker.webp",
+      "category": "Power Banks",
       "price": 49.99,
-      "features": ["Fast charging", "Lightweight", "Multiple device support"],
-      "img": "https://i.ibb.co.com/Mp1mb22/Anker.webp"
+      "description": "High-capacity power bank for charging multiple devices on the go.",
+      "Specification": [
+        "Capacity: 20100mAh",
+        "Output: 4.8A",
+        "Weight: 356g",
+        "Fast Charging: Yes"
+      ],
+      "availability": true,
+      "rating": 4.7
     },
     {
-      "id": 2,
-      "brand": "RAVPower",
-      "model": "Portable Charger 16750",
-      "capacity_mAh": 16750,
-      "price": 39.99,
-      "features": ["Dual USB ports", "Fast charging"],
-      "img": "https://i.ibb.co.com/wz9p8h8/ravpower-rp-pb19-b-rp-pb19-16750-mah-power-1308139.jpg"
+      "product_id": 2,
+      "product_title": "Samsung Galaxy S22",
+      "product_image": "https://i.ibb.co.com/sampleimage.jpg",
+      "category": "Phones",
+      "price": 799.99,
+      "description": "Premium smartphone with high-quality camera and long battery life.",
+      "Specification": [
+        "Screen Size: 6.1 inches",
+        "Storage: 128GB",
+        "Battery: 3700mAh",
+        "Camera: 50MP main"
+      ],
+      "availability": true,
+      "rating": 4.5
     },
     {
-      "id": 3,
-      "brand": "Xiaomi",
-      "model": "Mi Power Bank 3",
-      "capacity_mAh": 10000,
-      "price": 24.99,
-      "features": ["Slim design", "Fast charging"],
-      "img": "https://i.ibb.co.com/w7MNycc/Mi-Power-Bank-3.jpg"
+      "product_id": 3,
+      "product_title": "Apple MacBook Pro 14-inch",
+      "product_image": "https://i.ibb.co.com/sampleimage.jpg",
+      "category": "Computers",
+      "price": 1999.99,
+      "description": "High-performance laptop with Apple M1 chip for creative professionals.",
+      "Specification": [
+        "Processor: M1 Pro",
+        "RAM: 16GB",
+        "Storage: 512GB SSD",
+        "Screen: 14.2 inches Retina display"
+      ],
+      "availability": false,
+      "rating": 4.8
     },
     {
-      "id": 4,
-      "brand": "Samsung",
-      "model": "25W Portable Battery",
-      "capacity_mAh": 10000,
-      "price": 34.99,
-      "features": ["USB-C fast charging", "Slim design"],
-      "img": "https://i.ibb.co.com/dpz8qTp/25-W-Portable-Battery.webp"
+      "product_id": 4,
+      "product_title": "Fitbit Charge 5",
+      "product_image": "https://i.ibb.co.com/sampleimage.jpg",
+      "category": "Smart Watches",
+      "price": 149.95,
+      "description": "Advanced fitness tracker with heart rate monitoring and GPS.",
+      "Specification": [
+        "Battery Life: Up to 7 days",
+        "Display: AMOLED",
+        "Heart Rate Monitor: Yes",
+        "GPS: Yes"
+      ],
+      "availability": true,
+      "rating": 4.2
     },
     {
-      "id": 5,
-      "brand": "Aukey",
-      "model": "Basix Pro Wireless",
-      "capacity_mAh": 20000,
-      "price": 45.99,
-      "features": ["Wireless charging", "USB-C Power Delivery"],
-      "img": "https://i.ibb.co.com/NVSzZqW/Basix-Pro-Wireless.jpg"
-    },
-    {
-      "id": 6,
-      "brand": "Zendure",
-      "model": "SuperMini",
-      "capacity_mAh": 10000,
-      "price": 34.99,
-      "features": ["Compact design", "Fast charging"],
-      "img": "https://i.ibb.co.com/gW3j2bK/Super-Mini.jpg"
-    },
-    {
-      "id": 7,
-      "brand": "EcoFlow",
-      "model": "River Mini",
-      "capacity_mAh": 21000,
-      "price": 59.99,
-      "features": ["Fast charging", "Multiple output ports"],
-      "img": "https://i.ibb.co.com/s1vm6Lp/EcoFlow.jpg"
-    },
-    {
-      "id": 8,
-      "brand": "Mophie",
-      "model": "Powerstation Plus XL",
-      "capacity_mAh": 12000,
-      "price": 59.99,
-      "features": ["Integrated lightning cable", "USB-C port"],
-      "img": "https://i.ibb.co.com/5YPpBQK/Powerstation-Plus-XL.jpg"
-    },
-    {
-      "id": 9,
-      "brand": "Baseus",
-      "model": "Adaman Metal Digital Display",
-      "capacity_mAh": 20000,
-      "price": 29.99,
-      "features": ["Digital display", "Fast charging"],
-      "img": "https://i.ibb.co.com/xht5Qcb/Adaman-Metal-Digital-Display.png"
-    },
-    {
-      "id": 10,
-      "brand": "Omars",
-      "model": "SlimPack",
-      "capacity_mAh": 10000,
+      "product_id": 5,
+      "product_title": "Xiaomi Mi 33W Fast Charger",
+      "product_image": "https://i.ibb.co.com/sampleimage.jpg",
+      "category": "Chargers",
       "price": 19.99,
-      "features": ["Compact design", "Fast charging"],
-      "img": "https://i.ibb.co.com/j5r289v/SlimPack.jpg"
+      "description": "Compact and fast charger compatible with multiple devices.",
+      "Specification": [
+        "Power Output: 33W",
+        "USB Ports: 1",
+        "Cable Included: Yes",
+        "Compatibility: Universal"
+      ],
+      "availability": true,
+      "rating": 4.6
     }
   ]
 }
