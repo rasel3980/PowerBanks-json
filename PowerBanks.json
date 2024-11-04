@@ -1,0 +1,94 @@
+{
+  "power_banks": [
+    {
+      "id": 1,
+      "brand": "Anker",
+      "model": "PowerCore 20100",
+      "capacity_mAh": 20100,
+      "price": 49.99,
+      "features": ["Fast charging", "Lightweight", "Multiple device support"],
+      "img": "https://i.ibb.co.com/Mp1mb22/Anker.webp"
+    },
+    {
+      "id": 2,
+      "brand": "RAVPower",
+      "model": "Portable Charger 16750",
+      "capacity_mAh": 16750,
+      "price": 39.99,
+      "features": ["Dual USB ports", "Fast charging"],
+      "img": "https://i.ibb.co.com/wz9p8h8/ravpower-rp-pb19-b-rp-pb19-16750-mah-power-1308139.jpg"
+    },
+    {
+      "id": 3,
+      "brand": "Xiaomi",
+      "model": "Mi Power Bank 3",
+      "capacity_mAh": 10000,
+      "price": 24.99,
+      "features": ["Slim design", "Fast charging"],
+      "img": "https://i.ibb.co.com/w7MNycc/Mi-Power-Bank-3.jpg"
+    },
+    {
+      "id": 4,
+      "brand": "Samsung",
+      "model": "25W Portable Battery",
+      "capacity_mAh": 10000,
+      "price": 34.99,
+      "features": ["USB-C fast charging", "Slim design"],
+      "img": "https://i.ibb.co.com/dpz8qTp/25-W-Portable-Battery.webp"
+    },
+    {
+      "id": 5,
+      "brand": "Aukey",
+      "model": "Basix Pro Wireless",
+      "capacity_mAh": 20000,
+      "price": 45.99,
+      "features": ["Wireless charging", "USB-C Power Delivery"],
+      "img": "https://i.ibb.co.com/NVSzZqW/Basix-Pro-Wireless.jpg"
+    },
+    {
+      "id": 6,
+      "brand": "Zendure",
+      "model": "SuperMini",
+      "capacity_mAh": 10000,
+      "price": 34.99,
+      "features": ["Compact design", "Fast charging"],
+      "img": "https://i.ibb.co.com/gW3j2bK/Super-Mini.jpg"
+    },
+    {
+      "id": 7,
+      "brand": "EcoFlow",
+      "model": "River Mini",
+      "capacity_mAh": 21000,
+      "price": 59.99,
+      "features": ["Fast charging", "Multiple output ports"],
+      "img": "https://i.ibb.co.com/s1vm6Lp/EcoFlow.jpg"
+    },
+    {
+      "id": 8,
+      "brand": "Mophie",
+      "model": "Powerstation Plus XL",
+      "capacity_mAh": 12000,
+      "price": 59.99,
+      "features": ["Integrated lightning cable", "USB-C port"],
+      "img": "https://i.ibb.co.com/5YPpBQK/Powerstation-Plus-XL.jpg"
+    },
+    {
+      "id": 9,
+      "brand": "Baseus",
+      "model": "Adaman Metal Digital Display",
+      "capacity_mAh": 20000,
+      "price": 29.99,
+      "features": ["Digital display", "Fast charging"],
+      "img": "https://i.ibb.co.com/xht5Qcb/Adaman-Metal-Digital-Display.png"
+    },
+    {
+      "id": 10,
+      "brand": "Omars",
+      "model": "SlimPack",
+      "capacity_mAh": 10000,
+      "price": 19.99,
+      "features": ["Compact design", "Fast charging"],
+      "img": "https://i.ibb.co.com/j5r289v/SlimPack.jpg"
+    }
+  ]
+}
