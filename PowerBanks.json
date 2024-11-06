@@ -1,84 +1,164 @@
 {
-  "products": [
+  "powerbanks": [
     {
       "product_id": 1,
-      "product_title": "Anker PowerCore 20100 Portable Charger",
-      "product_image": "https://i.ibb.co/Mp1mb22/Anker.webp",
-      "category": "Power Banks",
+      "product_title": "Anker PowerCore 26800mAh",
+      "product_image": "https://i.ibb.co.com/4ZPDYYt/ANKER-Power-Core-26800-mah-Portable-Charger-with-Qualcomm-QC-Black-581de75c-e023-44ff-a32d-ebe1e40a3.webp",
+      "category": "Powerbanks",
+      "price": 69.99,
+      "description": "High-capacity powerbank with 26800mAh and fast-charging support.",
+      "Specification": {
+        "capacity": "26800mAh",
+        "input": "5V/2A",
+        "output": "5V/3A",
+        "ports": "3 USB-A"
+      },
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 2,
+      "product_title": "RAVPower 20000mAh PD",
+      "product_image": "https://i.ibb.co.com/Syy3knK/yy.webp",
+      "category": "Powerbanks",
       "price": 49.99,
-      "description": "High-capacity power bank for charging multiple devices on the go.",
-      "Specification": [
-        "Capacity: 20100mAh",
-        "Output: 4.8A",
-        "Weight: 356g",
-        "Fast Charging: Yes"
-      ],
+      "description": "A powerful 20000mAh powerbank with USB-C PD for quick charging.",
+      "Specification": {
+        "capacity": "20000mAh",
+        "input": "5V/3A, 9V/2A",
+        "output": "5V/3A, 9V/2A",
+        "ports": "1 USB-A, 1 USB-C"
+      },
       "availability": true,
       "rating": 4.7
     },
     {
-      "product_id": 2,
-      "product_title": "Samsung Galaxy S22",
-      "product_image": "https://i.ibb.co.com/sampleimage.jpg",
-      "category": "Phones",
-      "price": 799.99,
-      "description": "Premium smartphone with high-quality camera and long battery life.",
-      "Specification": [
-        "Screen Size: 6.1 inches",
-        "Storage: 128GB",
-        "Battery: 3700mAh",
-        "Camera: 50MP main"
-      ],
+      "product_id": 3,
+      "product_title": "Xiaomi Mi Power Bank 3",
+      "product_image": "https://i.ibb.co.com/KN3DYWp/XIAOMI-MI-600x600.jpg",
+      "category": "Powerbanks",
+      "price": 39.99,
+      "description": "Compact powerbank with 10000mAh capacity and dual USB ports.",
+      "Specification": {
+        "capacity": "10000mAh",
+        "input": "5V/2A",
+        "output": "5V/2.4A",
+        "ports": "2 USB-A"
+      },
       "availability": true,
       "rating": 4.5
     },
     {
-      "product_id": 3,
-      "product_title": "Apple MacBook Pro 14-inch",
-      "product_image": "https://i.ibb.co.com/sampleimage.jpg",
-      "category": "Computers",
-      "price": 1999.99,
-      "description": "High-performance laptop with Apple M1 chip for creative professionals.",
-      "Specification": [
-        "Processor: M1 Pro",
-        "RAM: 16GB",
-        "Storage: 512GB SSD",
-        "Screen: 14.2 inches Retina display"
-      ],
-      "availability": false,
-      "rating": 4.8
-    },
-    {
       "product_id": 4,
-      "product_title": "Fitbit Charge 5",
-      "product_image": "https://i.ibb.co.com/sampleimage.jpg",
-      "category": "Smart Watches",
-      "price": 149.95,
-      "description": "Advanced fitness tracker with heart rate monitoring and GPS.",
-      "Specification": [
-        "Battery Life: Up to 7 days",
-        "Display: AMOLED",
-        "Heart Rate Monitor: Yes",
-        "GPS: Yes"
-      ],
+      "product_title": "Aukey 20000mAh Quick Charge 3.0",
+      "product_image": "https://i.ibb.co.com/M6p06HH/AUKEY-PB-Y1-7.webp",
+      "category": "Powerbanks",
+      "price": 55.99,
+      "description": "Fast-charging 20000mAh powerbank with Quick Charge 3.0 support.",
+      "Specification": {
+        "capacity": "20000mAh",
+        "input": "5V/2A, 9V/2A",
+        "output": "5V/3A, 9V/2A",
+        "ports": "2 USB-A"
+      },
       "availability": true,
-      "rating": 4.2
+      "rating": 4.6
     },
     {
       "product_id": 5,
-      "product_title": "Xiaomi Mi 33W Fast Charger",
-      "product_image": "https://i.ibb.co.com/sampleimage.jpg",
-      "category": "Chargers",
-      "price": 19.99,
-      "description": "Compact and fast charger compatible with multiple devices.",
-      "Specification": [
-        "Power Output: 33W",
-        "USB Ports: 1",
-        "Cable Included: Yes",
-        "Compatibility: Universal"
-      ],
+      "product_title": "Zendure A3PD 10000mAh",
+      "product_image": "https://i.ibb.co.com/QN3kRHk/ff099d2a427dc1e0140c9b4a4359b002-hi.jpg",
+      "category": "Powerbanks",
+      "price": 39.99,
+      "description": "Portable and rugged 10000mAh powerbank with USB-C PD input and output.",
+      "Specification": {
+        "capacity": "10000mAh",
+        "input": "5V/3A, 9V/2A",
+        "output": "5V/3A, 9V/2A",
+        "ports": "1 USB-A, 1 USB-C"
+      },
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": 6,
+      "product_title": "Anker PowerCore Slim 10000",
+      "product_image": "https://i.ibb.co.com/THwrJnQ/c38432e1f8f6d3cfa395572e5015f7d5-jpg-960x960q80-jpg.webp",
+      "category": "Powerbanks",
+      "price": 29.99,
+      "description": "Ultra-slim 10000mAh powerbank, lightweight and portable.",
+      "Specification": {
+        "capacity": "10000mAh",
+        "input": "5V/2A",
+        "output": "5V/2.4A",
+        "ports": "1 USB-A"
+      },
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 7,
+      "product_title": "Mophie Powerstation Plus 6000mAh",
+      "product_image": "https://i.ibb.co.com/wNHswR1/636067ab69e87923b67e585b-mophie-powerstation-plus-external.jpg",
+      "category": "Powerbanks",
+      "price": 49.95,
+      "description": "Compact and versatile powerbank with built-in Lightning cable.",
+      "Specification": {
+        "capacity": "6000mAh",
+        "input": "5V/2A",
+        "output": "5V/2.1A",
+        "ports": "1 USB-A, 1 built-in Lightning cable"
+      },
       "availability": true,
       "rating": 4.6
+    },
+    {
+      "product_id": 8,
+      "product_title": "Omni 20 USB-C Power Bank",
+      "product_image": "https://i.ibb.co.com/VVMJJWF/omnicharge-omni-20c-05.webp",
+      "category": "Powerbanks",
+      "price": 199.99,
+      "description": "High-capacity powerbank with AC output and USB-C PD for laptops and devices.",
+      "Specification": {
+        "capacity": "20000mAh",
+        "input": "5V/3A, 12V/2A",
+        "output": "5V/3A, 9V/2A, AC outlet",
+        "ports": "1 USB-A, 1 USB-C, AC outlet"
+      },
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": 9,
+      "product_title": "Zendure SuperTank 27000mAh",
+      "product_image": "https://i.ibb.co.com/4FwZc3Y/zensu.webp",
+      "category": "Powerbanks",
+      "price": 129.99,
+      "description": "Ultra-high-capacity powerbank with 4 output ports and USB-C PD.",
+      "Specification": {
+        "capacity": "27000mAh",
+        "input": "5V/3A, 9V/2A",
+        "output": "5V/3A, 9V/2A, USB-C PD",
+        "ports": "2 USB-A, 1 USB-C, 1 USB-C PD"
+      },
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 10,
+      "product_title": "Aukey 10000mAh Power Bank",
+      "product_image": "https://i.ibb.co.com/Nsr87PG/608119204113-1.webp",
+      "category": "Powerbanks",
+      "price": 24.99,
+      "description": "Compact and affordable 10000mAh powerbank with Quick Charge 3.0.",
+      "Specification": {
+        "capacity": "10000mAh",
+        "input": "5V/2A",
+        "output": "5V/3A, 9V/2A",
+        "ports": "1 USB-A"
+      },
+      "availability": true,
+      "rating": 4.4
     }
   ]
 }
